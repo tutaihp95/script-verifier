@@ -1,0 +1,68 @@
+{
+  "banned_words_en": [
+    "delve",
+    "unravel",
+    "tapestry",
+    "beacon",
+    "testament",
+    "navigate",
+    "landscape",
+    "at its core",
+    "vital",
+    "crucial",
+    "game-changer",
+    "game changer",
+    "ever-evolving",
+    "ever evolving",
+    "shed light on",
+    "realm",
+    "multifaceted"
+  ],
+  "filler_words_en": [
+    "really",
+    "literally",
+    "genuinely",
+    "honestly"
+  ],
+  "cliche_openings_en": [
+    "in today's fast-paced world",
+    "in today's world",
+    "have you ever wondered why",
+    "have you ever wondered",
+    "throughout history",
+    "since the dawn of time"
+  ],
+  "preachy_phrases_en": [
+    "it's important to remember that",
+    "it's important to note that",
+    "it is important to remember",
+    "serves as a testament to",
+    "serves as a reminder",
+    "a multifaceted issue",
+    "it's worth noting",
+    "it is worth noting"
+  ],
+  "signposted_endings_en": [
+    "in conclusion",
+    "to sum up",
+    "wrapping up",
+    "that's all for today",
+    "thanks for watching",
+    "don't forget to like and subscribe",
+    "make sure to subscribe"
+  ],
+  "banned_words_vi": [
+    "bức tranh toàn cảnh",
+    "vén màn bí mật",
+    "hãy cùng đi sâu vào",
+    "chìa khóa vạn năng",
+    "bước ngoặt lịch sử",
+    "khiến chúng ta phải suy ngẫm",
+    "không thể phủ nhận rằng"
+  ],
+  "binary_contrast_patterns": [
+    "(?i)\\b(?:not\\s+because|it['’]?s\\s+not\\s+about)\\b.*?\\b(?:but|it['’]?s\\s+about)\\b",
+    "(?i)\\b(?:không\\s+phải\\s+vì|không\\s+chỉ\\s+là)\\b.*?\\b(?:mà\\s+là|mà\\s+còn\\s+là)\\b",
+    "(?i)\\b[\\w\\s]+\\s+isn['’]?t\\s+the\\s+(?:problem|issue|point),\\s+[\\w\\s]+\\s+is\\b"
+  ]
+}
